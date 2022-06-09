@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-In this page you can see my fully own projects and some projects from my learning 📚
+### In this page you can see my fully own projects and some projects from my learning 📚
 
 My development technologies stack 🛠
 * HTML, CSS, JavaScript
