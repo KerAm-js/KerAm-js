@@ -3,11 +3,11 @@
 In this page you can see my fully own projects and some projects from my learning 📚
 
 #### My development technologies stack 🛠
-* HTML, CSS, JavaScript, TypeScript
+* HTML, CSS, JavaScript
 * Webpack, Babel
 * React.js, React Native
 * Node.js, Express
-* MongoDB, PostgreSQL, SQLite
+* MongoDB, SQLite
 * Git
 
 Have a nice programming 🖥
