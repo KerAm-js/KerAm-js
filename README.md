@@ -7,7 +7,7 @@ In this page you can see my fully own projects and some projects from my learnin
 * Webpack, Babel
 * React.js, React Native
 * Node.js, Express
-* MongoDB, SQLite
+* MongoDB, SQLite, PostgreSQL
 * Git
 
 Have a nice programming 🖥
