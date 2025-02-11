@@ -1,19 +1,19 @@
-### Hi there 👋
-
-In this page you can see my fully own and learning projects 📚
-
 #### My development technologies stack 🛠
-* HTML, CSS, JavaScript
+* HTML, CSS, JavaScript, TypeScript
 * Webpack, Babel
-* React.js, React Native
+* React.js,
 * Node.js, Express
 * MongoDB, SQLite, PostgreSQL
 * Git
-
-Have a nice programming 🖥
+* React Native
+* Redux-Toolkit
+* RTK Query
+* React Query
+* Zustand
+* Reanimated
+* Firebase (analytics, auth, firestore etc.)
+* Feature Sliced Design
 
 #### Contacts
 
 Telegram: @Amir_Kerimov
-
-Phone number: 89334444150
