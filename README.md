@@ -1,4 +1,4 @@
-#### My development technologies stack 🛠
+#### Stack 🛠
 * HTML, CSS, JavaScript, TypeScript
 * Webpack, Babel
 * React.js,
